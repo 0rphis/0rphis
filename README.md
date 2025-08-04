@@ -31,8 +31,8 @@ Me chamo Mateus Daniel Karloh, tenho 18 anos e sou natural do Rio Grande do Sul.
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/
-    />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
     
 <img 
     align="left" 
@@ -64,8 +64,5 @@ Me chamo Mateus Daniel Karloh, tenho 18 anos e sou natural do Rio Grande do Sul.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rphis&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>  width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+
 
